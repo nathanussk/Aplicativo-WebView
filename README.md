@@ -1,6 +1,6 @@
 # Aplicativo-WebView
 
-## É um Aplicativo que abre a imagem de um site atraves do URL.
+## É um Aplicativo que abre o link de um site atraves do URL.
 
 ## :rocket: Tecnologias
 
