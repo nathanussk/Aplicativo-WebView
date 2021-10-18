@@ -18,7 +18,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-WebView.git
 #Parte 2: Depois so executar no emulador ou no seu celular!
 
 ```
-## 🖍📐 Resultado no Xcode:
+## 👨‍💻 Resultado no Xcode:
 
 <h1 align="center">
 
