@@ -31,11 +31,9 @@ $ git clone https://github.com/nathanussk/Aplicativo-WebView.git
 
 <h1 align="center">
 
-<img src="https://user-images.githubusercontent.com/53570115/123140433-a910cf00-d42d-11eb-9d45-142b03662850.png"
+<img src="https://user-images.githubusercontent.com/53570115/137758047-cebef951-0148-4c59-9d68-c90d8d394011.png"
     height="400">
-<img src="https://user-images.githubusercontent.com/53570115/123140475-b62dbe00-d42d-11eb-95d6-6ec233919cee.png"
-    height="400">
-<img src="https://user-images.githubusercontent.com/53570115/123140485-b928ae80-d42d-11eb-8407-b947366191a1.png"
+<img src="https://user-images.githubusercontent.com/53570115/137758059-7c5adb22-99d4-4864-bcea-5e0f945eb876.png"
     height="400">
 
 </h1>
